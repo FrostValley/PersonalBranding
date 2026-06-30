@@ -22,6 +22,10 @@ h2, p {
   margin: 10px;
 }
 
+p{
+  color: #f0f8ff;
+}
+
 .section-divider {
   width: 100%;
   height: 2px;
