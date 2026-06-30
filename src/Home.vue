@@ -18,7 +18,7 @@
         Ik ben Hannah, een enthousiaste Technische Informatica student met een passie voor
         embedded systemen, softwareontwikkeling en het bouwen van slimme technische oplossingen.
         Ik werk graag aan projecten waarbij hardware en software samenkomen, en ik vind het leuk
-        om gestructureerde, efficiënte en schaalbare systemen te ontwerpen.<a href="#/About">Lees meer.</a>
+        om gestructureerde, efficiënte en schaalbare systemen te ontwerpen.<a href="#/about">Lees meer.</a>
         </p>
         <br>
         <p> Ik ben ook opzoek naar een afstudeerstage voor september van 2027. 

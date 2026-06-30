@@ -17,6 +17,7 @@
             Door deze projecten ben ik vertrouwd met het werken in teamverband aan projecten en heb ik geleerd om gestructureerd 
             te werken, problemen op te lossen en kritisch te denken.
             <br>
+            Ik ben tweetalig (Nederlands en Engels).
             In mijn vrijetijd ben ik een Welpe leider voor de Britse Scouting Groep 1st The Hague. Ook rij ik in mijn vrije tijd paard.
             </p>
       </div>
